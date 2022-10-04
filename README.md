@@ -49,12 +49,12 @@ To Contribute in a proper way so that I can merge the pull request:
 ## Choose from these tasks
 ### 1. Add your name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
+(Copy-Paste & Edit)
 
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
+### Name: [YOUR NAME](GitHub link)
 - Place: City, State, Country
 - Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
 ```
 
 
