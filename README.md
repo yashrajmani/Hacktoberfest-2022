@@ -15,10 +15,10 @@
 
 <hr style="border:2px solid gray">
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yashrajmani/hacktoberfets-2022?style=for-the-badge)](https://github.com/yashrajmani/)
-[![LAST COMMIT](https://img.shields.io/github/last-commit/yashrajmani/hacktoberfets-2022?style=for-the-badge)](https://github.com/yashrajmani/)
-[![Languages](https://img.shields.io/github/languages/count/yashrajmani/hacktoberfets-2022?style=for-the-badge)](https://github.com/yashrajmani/)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/yashrajmani/hacktoberfets-2022?style=for-the-badge)](https://github.com/yashrajmani/)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yashrajmani/hacktoberfest-2022?style=for-the-badge)](https://github.com/yashrajmani/)
+[![LAST COMMIT](https://img.shields.io/github/last-commit/yashrajmani/hacktoberfest-2022?style=for-the-badge)](https://github.com/yashrajmani/)
+[![Languages](https://img.shields.io/github/languages/count/yashrajmani/hacktoberfest-2022?style=for-the-badge)](https://github.com/yashrajmani/)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/yashrajmani/hacktoberfest-2022?style=for-the-badge)](https://github.com/yashrajmani/)
 
 <hr style="border:2px solid gray">
   
@@ -76,5 +76,17 @@ console.log('Hello, World!');
 #### Happy Learning & Hacktoberfest ! 🎇🎇🎇🎇
 
 <hr style="border:2px solid gray">
+
+
+
+### REACH ME:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrajmani/) 
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/yashrajmani/)
+
+<hr style="border:2px solid gray">
+
+<p align="center">
+	MADE WITH :heart: &nbsp;BY <a href="https://github.com/yashrajmani/">YASH RAJ MANI</a>
+</p>
 
 
