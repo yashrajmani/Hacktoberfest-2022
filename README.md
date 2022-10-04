@@ -17,8 +17,10 @@
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yashrajmani/hacktoberfest-2022?style=for-the-badge)](https://github.com/yashrajmani/)
 [![LAST COMMIT](https://img.shields.io/github/last-commit/yashrajmani/hacktoberfest-2022?style=for-the-badge)](https://github.com/yashrajmani/)
+[![License](https://img.shields.io/github/license/yashrajmani/hacktoberfest-2022?style=for-the-badge)](https://github.com/yashrajmani/)
 [![Languages](https://img.shields.io/github/languages/count/yashrajmani/hacktoberfest-2022?style=for-the-badge)](https://github.com/yashrajmani/)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/yashrajmani/hacktoberfest-2022?style=for-the-badge)](https://github.com/yashrajmani/)
+[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=yashrajmani/hacktoberfest-2022r&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=for-the-badge)](https://github.com/yashrajmani/hacktoberfest-2022)
 
 <hr style="border:2px solid gray">
   
